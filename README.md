@@ -8,6 +8,7 @@ https://maven.google.com/com/google/firebase/firebase-database-collection/15.0.0
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/15.0.0)
 
 **References:**
+- https://firebase.google.com/support/release-notes/android#sdk_version_1500_april_12_2018
 - https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
