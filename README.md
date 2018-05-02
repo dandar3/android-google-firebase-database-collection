@@ -1,7 +1,7 @@
 ## android-google-firebase-database-collection
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/google/android/gms/firebase-database-collection/15.0.0/firebase-database-collection-15.0.0.aar
+https://maven.google.com/com/google/firebase/firebase-database-collection/15.0.0/firebase-database-collection-15.0.0.aar
 
 **Requires:**
 - `Android 8.1 (API 27) SDK Platform`
